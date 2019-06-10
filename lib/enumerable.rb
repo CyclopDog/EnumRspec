@@ -105,13 +105,3 @@ module Enumerable
     end
 
 end
-
-#TESTS
-
-# puts [1,2,3,4,5].my_each { |i| i}
-# puts ""
-# puts [1,2,3,4,5].my_count { |i| i > 4 }
-# puts ""
-# puts [1,2,3].my_map { |i| i + 1 }
-# puts ""
-# puts [1,2,3].my_count
